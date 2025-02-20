@@ -1,10 +1,10 @@
-# TUTORIAL_SQLite_Consumo_de_Banco_de_Dados
+# TUTORIAL_Algoritmos
 
 > Status do Projeto: Projeto em fase de desenvolvimento
 
 <h3>Objetivo:</h3> 
 <p>
-Este tutorial tem o objetivo didático de ensinar de forma prática o consumo de banco de dados por meio da linguagem de programação Python. Para tal será utlizado a biblioteca <b>SQLite</b> para efetuar a comunição e a comunicação com o banco de dados.
+Este tutorial tem o objetivo didático de ensinar de forma [...].
 </p>
 
 ### Tecnologias
